@@ -3,6 +3,7 @@
 2. install selenium chrome driver + selenium ms edge driver
 
 3.setze Umgebungsvariablen zu exe files
+
     - C:\Program Files\Google\chromedriver.exe
     - C:\Program Files (x86)\Microsoft\Edge\Application\msedgedriver.exe
 
